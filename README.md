@@ -1,2 +1,2 @@
 # resume-html
-my resume created using pure html
+my resume created using pure Html
